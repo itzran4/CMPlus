@@ -1,2 +1,17 @@
-# CMPlus
-This is a ReShade add‑on plugin. Before use, you must first install ReShade for CM. Afterwards, simply drop  CMPlus.addon64  into your game root directory.
+# CMPlus - Fov Mod
+
+
+**Features**
+
+‑ Freely adjust both camera FOV and arm FOV
+
+‑ Lightweight, minimal performance overhead
+
+
+**Installation Instructions**
+
+This is a ReShade add‑on plugin.
+
+Prior to usage, please install ReShade for CM first.
+
+Then drag‑and‑drop `CMPlus.addon64` into your game root directory to complete setup.
